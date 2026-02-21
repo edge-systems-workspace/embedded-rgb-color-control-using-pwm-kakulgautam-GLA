@@ -30,6 +30,9 @@ void setup() {
 
     // TODO 5:
     // Configure RGB pins as OUTPUT
+    pinMode(RED_PIN, OUTPUT);
+    pinMode(GREEN_PIN, OUTPUT);
+    pinMode(BLUE_PIN, OUTPUT);
 
     // TODO 6:
     // Print initialization message
